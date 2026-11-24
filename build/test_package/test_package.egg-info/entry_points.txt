@@ -1,0 +1,3 @@
+[console_scripts]
+first_node = test_package.first_node:main
+second_node = test_package.second_node:main

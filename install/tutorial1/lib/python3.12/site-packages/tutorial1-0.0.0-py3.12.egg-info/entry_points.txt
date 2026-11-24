@@ -1,0 +1,3 @@
+[console_scripts]
+publisher = tutorial1.publisher_python:main
+subscriber = tutorial1.subscriber_python:main

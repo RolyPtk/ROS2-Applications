@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating test_package.egg-info
+writing test_package.egg-info/PKG-INFO
+writing dependency_links to test_package.egg-info/dependency_links.txt
+writing entry points to test_package.egg-info/entry_points.txt
+writing requirements to test_package.egg-info/requires.txt
+writing top-level names to test_package.egg-info/top_level.txt
+writing manifest file 'test_package.egg-info/SOURCES.txt'
+reading manifest file 'test_package.egg-info/SOURCES.txt'
+writing manifest file 'test_package.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rolandinio/ROS2_Projects/RCS_project/install/test_package/lib/python3.12/site-packages/test-package.egg-link (link to .)
+Installing first_node script to /home/rolandinio/ROS2_Projects/RCS_project/install/test_package/lib/test_package
+
+Installed /home/rolandinio/ROS2_Projects/RCS_project/build/test_package
+running symlink_data
+creating /home/rolandinio/ROS2_Projects/RCS_project/install/test_package/share/ament_index
+creating /home/rolandinio/ROS2_Projects/RCS_project/install/test_package/share/ament_index/resource_index
+creating /home/rolandinio/ROS2_Projects/RCS_project/install/test_package/share/ament_index/resource_index/packages
+symbolically linking /home/rolandinio/ROS2_Projects/RCS_project/build/test_package/resource/test_package -> /home/rolandinio/ROS2_Projects/RCS_project/install/test_package/share/ament_index/resource_index/packages
+symbolically linking /home/rolandinio/ROS2_Projects/RCS_project/build/test_package/package.xml -> /home/rolandinio/ROS2_Projects/RCS_project/install/test_package/share/test_package

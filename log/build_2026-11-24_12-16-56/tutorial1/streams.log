@@ -1,0 +1,41 @@
+[0.777s] Invoking command in '/home/rolandinio/ROS2_Projects/RCS_project/src/tutorial1': PYTHONPATH=/home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tutorial1 build --build-base /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build install --record /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/install.log --install-scripts $base/lib/tutorial1 --single-version-externally-managed install_data
+[0.995s] running egg_info
+[0.996s] creating ../../build/tutorial1/tutorial1.egg-info
+[1.012s] writing ../../build/tutorial1/tutorial1.egg-info/PKG-INFO
+[1.012s] writing dependency_links to ../../build/tutorial1/tutorial1.egg-info/dependency_links.txt
+[1.012s] writing entry points to ../../build/tutorial1/tutorial1.egg-info/entry_points.txt
+[1.012s] writing requirements to ../../build/tutorial1/tutorial1.egg-info/requires.txt
+[1.012s] writing top-level names to ../../build/tutorial1/tutorial1.egg-info/top_level.txt
+[1.012s] writing manifest file '../../build/tutorial1/tutorial1.egg-info/SOURCES.txt'
+[1.045s] reading manifest file '../../build/tutorial1/tutorial1.egg-info/SOURCES.txt'
+[1.046s] writing manifest file '../../build/tutorial1/tutorial1.egg-info/SOURCES.txt'
+[1.046s] running build
+[1.046s] running build_py
+[1.046s] creating /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build
+[1.046s] creating /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib
+[1.046s] creating /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1
+[1.046s] copying tutorial1/__init__.py -> /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1
+[1.047s] copying tutorial1/publisher_python.py -> /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1
+[1.047s] copying tutorial1/subscriber_python.py -> /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1
+[1.047s] running install
+[1.051s] running install_lib
+[1.068s] creating /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1
+[1.068s] copying /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1/__init__.py -> /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1
+[1.068s] copying /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1/publisher_python.py -> /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1
+[1.069s] copying /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1/subscriber_python.py -> /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1
+[1.069s] byte-compiling /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1/__init__.py to __init__.cpython-312.pyc
+[1.069s] byte-compiling /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1/publisher_python.py to publisher_python.cpython-312.pyc
+[1.070s] byte-compiling /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1/subscriber_python.py to subscriber_python.cpython-312.pyc
+[1.070s] running install_data
+[1.070s] creating /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/share/ament_index
+[1.070s] creating /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/share/ament_index/resource_index
+[1.070s] creating /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/share/ament_index/resource_index/packages
+[1.070s] copying resource/tutorial1 -> /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/share/ament_index/resource_index/packages
+[1.070s] copying package.xml -> /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/share/tutorial1
+[1.070s] running install_egg_info
+[1.088s] Copying ../../build/tutorial1/tutorial1.egg-info to /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1-0.0.0-py3.12.egg-info
+[1.089s] running install_scripts
+[1.201s] Installing publisher script to /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/tutorial1
+[1.201s] Installing subscriber script to /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/tutorial1
+[1.201s] writing list of installed files to '/home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/install.log'
+[1.224s] Invoked command in '/home/rolandinio/ROS2_Projects/RCS_project/src/tutorial1' returned '0': PYTHONPATH=/home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/tutorial1 build --build-base /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build install --record /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/install.log --install-scripts $base/lib/tutorial1 --single-version-externally-managed install_data

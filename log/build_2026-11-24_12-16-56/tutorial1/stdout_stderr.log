@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/tutorial1/tutorial1.egg-info
+writing ../../build/tutorial1/tutorial1.egg-info/PKG-INFO
+writing dependency_links to ../../build/tutorial1/tutorial1.egg-info/dependency_links.txt
+writing entry points to ../../build/tutorial1/tutorial1.egg-info/entry_points.txt
+writing requirements to ../../build/tutorial1/tutorial1.egg-info/requires.txt
+writing top-level names to ../../build/tutorial1/tutorial1.egg-info/top_level.txt
+writing manifest file '../../build/tutorial1/tutorial1.egg-info/SOURCES.txt'
+reading manifest file '../../build/tutorial1/tutorial1.egg-info/SOURCES.txt'
+writing manifest file '../../build/tutorial1/tutorial1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build
+creating /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib
+creating /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1
+copying tutorial1/__init__.py -> /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1
+copying tutorial1/publisher_python.py -> /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1
+copying tutorial1/subscriber_python.py -> /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1
+running install
+running install_lib
+creating /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1
+copying /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1/__init__.py -> /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1
+copying /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1/publisher_python.py -> /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1
+copying /home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/build/lib/tutorial1/subscriber_python.py -> /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1
+byte-compiling /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1/publisher_python.py to publisher_python.cpython-312.pyc
+byte-compiling /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1/subscriber_python.py to subscriber_python.cpython-312.pyc
+running install_data
+creating /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/share/ament_index
+creating /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/share/ament_index/resource_index
+creating /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/share/ament_index/resource_index/packages
+copying resource/tutorial1 -> /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/share/ament_index/resource_index/packages
+copying package.xml -> /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/share/tutorial1
+running install_egg_info
+Copying ../../build/tutorial1/tutorial1.egg-info to /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/python3.12/site-packages/tutorial1-0.0.0-py3.12.egg-info
+running install_scripts
+Installing publisher script to /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/tutorial1
+Installing subscriber script to /home/rolandinio/ROS2_Projects/RCS_project/install/tutorial1/lib/tutorial1
+writing list of installed files to '/home/rolandinio/ROS2_Projects/RCS_project/build/tutorial1/install.log'
